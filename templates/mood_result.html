@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Mood Results - CIAO</title>
+    <link href="https://fonts.googleapis.com/css2?family=Publico+Banner:ital,wght@1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <header>
+        <img src="https://ibb.co/924wmBx" alt="CIAO - Mood Booster Logo" class="logo">
+        <h1>Your Personalized Mood Results</h1>
+    </header>
+    <main>
+        <div class="results">
+            {% for item in content %}
+                <div class="mood-card">
+                    <h2>Mood: {{ item.mood }}</h2>
+                    <p><strong>Joke:</strong> {{ item.joke }}</p>
+                    <p><strong>Quote:</strong> {{ item.quote }}</p>
+                </div>
+            {% endfor %}
+        </div>
+    </main>
+</body>
+</html>

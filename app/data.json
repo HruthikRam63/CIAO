@@ -1,0 +1,27 @@
+[
+    {
+        "mood": "happy",
+        "joke": "What's green and smells like pork? Kermit's Fingers.",
+        "quote": "I have this really high priority on happiness and finding something to be happy about."
+    },
+    {
+        "mood": "sad",
+        "joke": "Why did the chicken cross the road, roll in the mud and cross the road again? He was a dirty double-crosser!",
+        "quote": "When I was a child people simply looked about them and were moderately happy; today they peer beyond the seven seas, bury themselves waist deep in tidings, and by and large what they see and hear makes them unutterably sad."
+    },
+    {
+        "mood": "angry",
+        "joke": "A neutron walks into a bar and asks for a price on a drink.\nThe barkeeper says: \"For you... no charge!\"",
+        "quote": "There can be no happiness if the things we believe in are different from the things we do."
+    },
+    {
+        "mood": "neutral",
+        "joke": "\"We messed up the keming again guys.\"",
+        "quote": "Happy is the man who has broken the chains which hurt the mind, and has given up worrying once and for all."
+    },
+    {
+        "mood": "inspired",
+        "joke": "What does tofu and a dildo have in common? They're both meat substitutes.",
+        "quote": "He who never sacrificed a present to a future good or a personal to a general one can speak of happiness only as the blind do of colors."
+    }
+]
