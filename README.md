@@ -151,7 +151,7 @@ CIAO is constantly evolving. Some future improvements we’re planning include:
 **License**
 -----------
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/HruthikRam63/CIAO/blob/main/LICENSE) - see the LICENSE file for details.
 
 * * *
 
